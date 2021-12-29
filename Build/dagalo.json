@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Dagalo",
+"productVersion": "1.1.4",
+"dataUrl": "dagalo.data.unityweb",
+"wasmCodeUrl": "dagalo.wasm.code.unityweb",
+"wasmFrameworkUrl": "dagalo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.34f1"
+}
